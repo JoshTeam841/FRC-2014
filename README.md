@@ -2,7 +2,7 @@
 FRC 2014
 ========
 
-Code for our Robot dubbed Highlight
+This is the code for our robot dubbed Comet
 
 <b>Special thanks to Team 254 for the cheesy drive code</b>
 
