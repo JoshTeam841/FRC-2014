@@ -2,17 +2,9 @@
 FRC-2014
 ========
 
-FRC subtitle
------------
+Code for our Robot <b> Highlight </b>
 
-table
-------
-| Right | Center | Left  |
-| ----: | :----: | :---- |
-| 10    | 10     | 10    |
-| 1000  | 1000   | 1000  |
-
-Code for Highlight
+<b>Special thanks to Team 254 for the cheesy drive code</b>
 
 
 _THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS "AS IS" AND
