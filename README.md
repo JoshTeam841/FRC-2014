@@ -1,4 +1,4 @@
-FRC-2014   {#mainpage}
+FRC-2014
 ========
 
 FRC subtitle
