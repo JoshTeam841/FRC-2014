@@ -1,5 +1,5 @@
 ![](\Team 841 logo.jpg)
-FRC-2014
+FRC 2014
 ========
 
 Code for our Robot <b> Highlight </b>
