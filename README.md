@@ -2,7 +2,7 @@
 FRC 2014
 ========
 
-Code for our Robot <b> Highlight </b>
+Code for our Robot dubbed Highlight
 
 <b>Special thanks to Team 254 for the cheesy drive code</b>
 
