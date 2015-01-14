@@ -5,7 +5,7 @@ FRC 2014
 This is the code for our robot dubbed Comet
 
 <b>Special thanks to Team 254 for the cheesy drive code</b>
-(\Comet.jpg)
+[[\Comet.jpg|100 px]]
 
 _THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS "AS IS" AND
 ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED
